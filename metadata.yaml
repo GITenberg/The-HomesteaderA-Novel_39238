@@ -18,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/39912
     wikipedia: http://en.wikipedia.org/wiki/Oscar_Micheaux
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39238#The-HomesteaderA-Novel
 gutenberg_issued: '2012-03-24'
 gutenberg_type: Text
 identifiers:
